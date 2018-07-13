@@ -1,0 +1,20 @@
+{
+  "name": "krsma-patch-ex",
+  "version": "0.0.1",
+  "description": "乖離-->Android-->patch file-->download/diff/check",
+  "main": "make.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "crc": "^3.5.0",
+    "download": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "krsma"
+  ],
+  "author": "DanoR",
+  "license": "ISC"
+}
